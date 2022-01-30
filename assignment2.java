@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//Java Program to calculate power of a number"
+
+
 public class assignment2 {
     
     public static void main(String[] args) {
@@ -21,7 +24,10 @@ public class assignment2 {
 
 }
 
-/*
+//" Write a program that checks if a number is a Prime number. take the user input.
+
+
+
 class primenumber{
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
